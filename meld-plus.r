@@ -1,5 +1,5 @@
 #########################################################################################
-### This program calculates MELD, MELD, and MELD-Plus scores.                         ###   
+### This program calculates MELD, MELD-Na, and MELD-Plus scores.                      ###   
 ### Kartoun U, Corey KE, Simon TG, Zheng H, Aggarwal R, Ng K, Shaw SY.                ### 
 ### The MELD-Plus: A generalizable prediction risk score in cirrhosis. PLoS One.      ### 
 ### 2017 Oct 25;12(10):e0186301. doi: 10.1371/journal.pone.0186301. eCollection 2017. ###
